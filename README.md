@@ -18,7 +18,7 @@ angular. Gravitação.
 5. Conservação da energia
 6. Sistemas de partículas — Centro de massa
 7. Conservação do momento linear
-8. Colisões
+8. [Colisões](8_colisoes/README.md)
 9. Cinemática e Dinâmica da rotação
 10. Conservação do momento angular
 11. Torque e Equilíbrio de Corpos Rígidos
